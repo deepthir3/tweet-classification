@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+
+/* Virtual Environment */
+bin/
+include/
+lib/
+.Python
+pip-selfcheck.json
